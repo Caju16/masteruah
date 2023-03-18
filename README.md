@@ -7,10 +7,7 @@
 
 1. Clonar vuestro repositio en local.
 
-<h3><b>Solución:</b></h3> git clone https://github.com/Caju16/masteruah
-
-
-
+**Solución**: git clone https://github.com/Caju16/masteruah
 
 
 ## README
@@ -18,14 +15,14 @@
 1. Crear (si no lo habéis creado ya) en vuestro repositorio local
 un documento **README.md**.
 
-> Notas: en este documento tendreís que ir poniendo los **comandos**
-> que habéis tenido que utilizar durante todos los ejercicios
-> y las **explicaciones y capturas de pantalla** que consideréis **necesarias**.
+**Solución**: Clic derecho sobre la carpeta contenedora -> nuevo documento de texto -> README.md
 
 ## Commit inicial
 
-1. Añadir al README.md los comanddos utilizados hasta ahora
+1. Añadir al README.md los comandos utilizados hasta ahora
 y hacer un coomit inicial con el mensaje **commit inicial**.
+
+**Solución**: **1**.git add README.md || **2**.git commit -m "commit inicial"
 
 ## Push inicial
 
