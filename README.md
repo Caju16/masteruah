@@ -122,6 +122,22 @@ y hacer un coomit inicial con el mensaje **commit inicial**.
 
 <h2>*Solución: git log --oneline --decorate --all</h2>
 
+
+## Cuenta de GitHub
+
+1. Poner una foto en vuestro perfil de GitHub.
+
+<h2>*Solución: clic en el menú desplegable del usuario -> settings -> edit profile pic</h2>
+
+
+
+1. Poner el doble factor de autentificación en vuestra cuenta de GitHub.
+
+1. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
+
+
+
+
 <table>
   
   <tr>
