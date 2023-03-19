@@ -129,14 +129,24 @@ y hacer un coomit inicial con el mensaje **commit inicial**.
 
 <h2>*Solución: clic en el menú desplegable del usuario -> settings -> edit profile pic</h2>
 
+<img src="imagenes/14.PNG">
 
 
 1. Poner el doble factor de autentificación en vuestra cuenta de GitHub.
 
+<h2>*Solución: clic en el menú desplegable del usuario -> settings -> Password and authentication -> two-factor authentication (seguir los pasos que indique)</h2>
+
 1. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
 
+<h2>*Solución: (en el cmd de windows) -> ssh-keygen (con nombre github) -> (en el bash de git) -> cd ~/.ssh -> ssh-keygen -> cat ~/-ssh/github -> copiar el texto
 
+-> clic en el menú desplegable del usuario -> settings -> SSH and GPG keys -> new SSH key -> pegar el texto del ssh</h2>
 
+## Uso social de GitHub
+
+1. Preguntar los nombres de usuario de GitHub de tus compañeros de trabajo en grupo, búscalos, y sigueles.
+
+1. Añadir una estrella a los repositorios del resto de tus compañeros.
 
 <table>
   
