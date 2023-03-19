@@ -146,7 +146,16 @@ y hacer un coomit inicial con el mensaje **commit inicial**.
 
 1. Preguntar los nombres de usuario de GitHub de tus compañeros de trabajo en grupo, búscalos, y sigueles.
 
+<img src="imagenes/15.PNG">
+
 1. Añadir una estrella a los repositorios del resto de tus compañeros.
+
+<img src="imagenes/16.PNG">
+
+## Crear una tabla
+
+1. Crear una tabla de este estilo en el fichero **README.md** con la información
+de varios de tus compañeros de clase:
 
 <table>
   
@@ -170,3 +179,70 @@ y hacer un coomit inicial con el mensaje **commit inicial**.
     <td>https://github.com/JLFcmd</td>
   </tr>
 </table>
+
+
+## Colaboradores
+
+1. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador
+del repositorio **masteruah**
+
+<img src="imagenes/5.PNG">
+
+## Crear una organización
+
+1. Crear una organización llamada **masteruah-tunombredeusuariodegithub**
+
+<img src="imagenes/6.PNG">
+
+## Crear equipos
+
+1. Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**,
+uno llamado **administradores** con más permisos y otro **colaboradores** con menos permisos.
+
+<img src="imagenes/8.PNG">
+
+1. Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a 2 de vuestros
+compañeros de clase en el equipo **administradores**.
+
+<h2>*Solución: En nuestra organización ir a settings -> collaborators and teams -> add people -> buscar a 2 compañeros</h2>
+
+<img src="imagenes/17.PNG">
+
+1. Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a otros 2 de vuestros
+compañeros de clase en el equipo **colaboradores**.
+
+<h2>*Solución: En nuestra organización ir a settings -> collaborators and teams -> add people -> buscar a 2 compañeros</h2>
+
+## Crear un index.html
+
+1. Crear un index.html que se pueda ver como página web en la organización.
+
+<img src="imagenes/9.PNG">
+
+## Crear Pull-requests
+
+1. Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io**
+de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
+
+
+<img src="imagenes/10.PNG">
+
+<img src="imagenes/11.PNG">
+
+1. Crearos una rama en cada fork.
+
+<h2> *Solución: En la organización que hemos hecho fork -> new branch</h2>
+
+1. En cada rama modificar el fichero **index.html** añadiendo vuestro nombre.
+
+<img src="imagenes/12.PNG">
+
+1. Con cada rama hacer un pull-request.
+
+<h2>*Solución: En la organización en la que hemos hecho fork -> pull request -> new pull request -> create pull request</h2>
+
+## Gestionar Pull-requests
+
+1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+
+<img src="imagenes/13.PNG">
